@@ -1,4 +1,4 @@
-# MyNaksh API
+# Personalized Horoscope API
 
 A simple backend API built with Node.js and Express.js that allows users to sign up, log in, and retrieve personalized daily horoscopes based on their zodiac sign (auto-calculated from birthdate). Horoscopes are mocked for simplicity but stored persistently in MongoDB. Authentication uses JWT, and the app follows a modular structure with controllers and routes.
 
